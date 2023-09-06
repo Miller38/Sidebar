@@ -1,4 +1,4 @@
-# Sidebar
+<h2 align="center">Sidebar</h2>
 ![Preview 1](/preview1.png)
 ![Preview 2](/preview2.png)
 <h3>Link Deploy</h3>
